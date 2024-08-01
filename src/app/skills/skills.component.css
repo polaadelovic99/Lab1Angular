@@ -1,0 +1,43 @@
+.skills-section {
+    padding: 50px 0;
+    background-color: #ffffff;
+    color: #000;
+}
+
+.skills-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.skills-section p {
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list li {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.progress {
+    height: 32px;
+    background-color: white;
+}
+
+.progress-bar {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(270deg, rgba(0, 0, 0, 1) 0%, rgba(156, 156, 156, 1) 63%, rgba(255, 255, 255, 1) 100%);
+    color: white;
+    font-size: 1rem;
+    line-height: 25px;
+    text-align: right;
+    padding-right: 10px;
+}

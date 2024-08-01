@@ -1,0 +1,36 @@
+.footer-section {
+    background-color: #575455;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-section h5 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.footer-section p {
+    margin: 0;
+}
+
+.footer-section .btn {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: #555;
+}
+
+.footer-section .btn:hover {
+    background-color: #777;
+}
+
+.footer-section .fa-2x {
+    margin: 0 10px;
+    color: #fff;
+}
+
+.footer-section .fa-2x:hover {
+    color: #ddd;
+}

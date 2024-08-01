@@ -1,0 +1,27 @@
+.about-section {
+    padding: 50px 0;
+}
+
+.about-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.about-section .btn {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000000;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.about-section .btn:hover {
+    background-color: #555;
+}
